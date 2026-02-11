@@ -7,7 +7,3 @@ This is a school project website about slow and unreliable internet.
 - Solutions
 - Experiences
 
-## Members
-- Sebastian
-- Alxandr
-- (add other members here)
