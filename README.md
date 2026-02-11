@@ -21,3 +21,5 @@ In my experience Slow internet is really exhausting. Sometimes I’m just trying
 while creating our website we experienced slow internet which made uploading and testing difficult some pages loaded slowly and we had to retry many times. despite this we worked together, solved the problems, and successfully finished our website. This helped us understand the importance of having a stable internet connection - 
 
 Our experience whilst creating this website was complex as we had to go through files and coding, but we still managed to work through it and create this website.
+
+I've dealt with poor internet, which made it extremely difficult to use online ICT tools such as cloud storage and collaboration platforms. Files would take hours to upload or download, and real-time editing functions would frequently freeze or fail to sync. The most difficult times occurred during virtual classes, where poor bandwidth produced chronic audio/video issues, making it difficult to follow discussions and even resulting in missed deadlines for completing my experience guides activity or IPBAs.
