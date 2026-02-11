@@ -23,3 +23,5 @@ while creating our website we experienced slow internet which made uploading and
 Our experience whilst creating this website was complex as we had to go through files and coding, but we still managed to work through it and create this website.
 
 I've dealt with poor internet, which made it extremely difficult to use online ICT tools such as cloud storage and collaboration platforms. Files would take hours to upload or download, and real-time editing functions would frequently freeze or fail to sync. The most difficult times occurred during virtual classes, where poor bandwidth produced chronic audio/video issues, making it difficult to follow discussions and even resulting in missed deadlines for completing my experience guides activity or IPBAs.
+
+My experience whenever I experience Slow internet— is that it gets me worked up and frustrated, and especially when it comes to accessing experience guides in google classroom, submitting outputs— homeworks, sending messages, doing activities digitally and so. Not only this affects students but also directly impacts the ICT field that focuses on software, telecommunications, networking, etc.
