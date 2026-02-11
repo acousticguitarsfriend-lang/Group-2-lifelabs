@@ -18,6 +18,3 @@ Slow or bad internet is typically caused by network congestion, outdated hardwar
 
 Our experience whilst creating this website was complex as we had to go through files and coding, but we still managed to work through it and create this website.
 
----
-
-Group 2 LifeLabs Project
