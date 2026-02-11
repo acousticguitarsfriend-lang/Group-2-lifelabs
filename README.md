@@ -1,4 +1,4 @@
-# Group 2 LifeLabs Project
+# Group 2 LifeLabs Project #
 
 This is a school project website about slow and unreliable internet.
 
