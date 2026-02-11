@@ -1,12 +1,4 @@
-# Group 2 LifeLabs Project #
-
-This is a school project website about slow and unreliable internet.
-
-## Pages
-- Introduction
-- Solutions
-- Experiences
-
+index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
